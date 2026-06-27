@@ -163,3 +163,10 @@ Case folders use the C- or T-number with slashes replaced by hyphens. Document f
 - Apparatus does not require a login or API key. It queries EUR-Lex and CELLAR directly using public endpoints.
 - All data is stored locally. Nothing is uploaded to any server.
 - The database is a plain SQLite file. Advanced users can open it with any SQLite browser.
+
+## Licens
+
+Copyright © 2026 A.C. van der Linde. All rights reserved.
+Permission is hereby granted to use and redistribute this software in its original, unmodified binary form, free of charge, provided that this copyright notice is retained in all copies.
+You may not: reverse engineer, decompile, disassemble, modify, or create derivative works of this software.
+This software is provided "as is", without warranty of any kind.
